@@ -17,7 +17,7 @@ public class Задача1 {
         for (int index = 0; index < num; index++) {
             fact *=index+1;
         }
-        System.out.printf("Factorial num =%d",fact);
+        System.out.printf("Factorial num = %d",fact);
         System.out.printf("\nSumma at1 to num = %d",sum);
         sc.close();
     }
